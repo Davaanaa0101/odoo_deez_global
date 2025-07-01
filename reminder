@@ -1,0 +1,9 @@
+console.log('result esult.lottery ' + aa.lottery);
+$(".mn_class_bill_id").text(aa.id);
+console.log("Setting bill ID:", aa.id);
+$(".mn_class_lottery").text(lott);
+console.log("Setting lottery ID:", lott);
+$(".mn_class_qr_data").attr("src", "/report/barcode/?barcode_type=QR&value=" + aa.qrData + "&width=150&height=150");
+console.log("QR Data:", aa.qrData);
+
+XML deer </span> хаалтыг 3 газар нэмж турших
